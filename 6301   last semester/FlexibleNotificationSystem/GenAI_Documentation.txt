@@ -1,0 +1,14 @@
+GenAI Documentation
+
+I used Generative AI as a collaborative tool to assist in designing and implementing the Flexible Notification System.
+
+Query:
+I asked how to design a flexible notification system using composition instead of inheritance.
+
+Changes and Improvements:
+- Implemented an interface (NotificationMedium)
+- Used composition in AlertSystem (has-a relationship)
+- Created EmailService and SMSService
+- Added ArrayList to store message logs
+- Added JavaDocs for professional documentation
+

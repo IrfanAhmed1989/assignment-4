@@ -1,0 +1,33 @@
+<<interface>>
++----------------------+
+|     Connectable      |
++----------------------+
+| + connectToWiFi()    |
++----------------------+
+
+          ^
+          |  (implements - dashed)
+
++----------------------+
+|     SmartDevice      |
++----------------------+
+| - brand : String     |
+| - powerOn : boolean  |
++----------------------+
+| + togglePower()      |
+| + getBrand()         |
+| + isPowerOn()        |
++----------------------+
+
+          ^
+          |  (extends)
+
++---------------------------+
+|       SmartLight          |
++---------------------------+
+| - brightnessLevel : int   |
++---------------------------+
+| + connectToWiFi()         |
+| + setBrightness()         |
+| + getBrightness()         |
++---------------------------+

@@ -1,0 +1,18 @@
+Subject: Application – {ROLE} – {YOUR_NAME}
+
+Dear {COMPANY} Hiring Team,
+
+I’m applying for the {ROLE} role in {LOCATION}. I bring 10+ years of Electrical/IT engineering across SCADA/MMIS, preventive maintenance, troubleshooting, availability reporting, and project/site coordination. I also work daily with Python, Linux/Ubuntu, and terminal-based automation.
+
+Portfolio:  https://IrfanAhmed1989.github.io
+GitHub:     https://github.com/IrfanAhmed1989
+Resume:     {RESUME}
+
+I’m near Lombard, IL (Chicago area) and open to on-site and remote roles.
+
+Thank you for your time and consideration.
+
+Best regards,
+{YOUR_NAME}
+{EMAIL}
+{PHONE}

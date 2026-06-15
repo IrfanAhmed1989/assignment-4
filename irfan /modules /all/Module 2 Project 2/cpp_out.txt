@@ -1,0 +1,4 @@
+Enter a positive number (0 or negative to exit): 5 is a prime number.
+Enter a positive number (0 or negative to exit): 10 is not a prime number.
+Enter a positive number (0 or negative to exit): 3 is a prime number.
+Enter a positive number (0 or negative to exit): 

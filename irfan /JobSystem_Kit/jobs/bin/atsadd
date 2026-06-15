@@ -1,0 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+if [ "$#" -lt 3 ]; then
+  echo "Usage: atsadd \"Company\" \"URL\" \"Role\" [Notes]" >&2
+  exit 1
+fi
+
+CSV="$HOME/jobs/ats.csv"
+test -f "$CSV" || echo "date,company,url,role,notes" > "$CSV"
+
+DATE=$(date +%F)
+COMPANY="$1"
+URL="$2"
+ROLE="$3"
+NOTES="${4:-}"
+
+printf '%s,"%s","%s","%s","%s"\n' "$DATE" "$COMPANY" "$URL" "$ROLE" "$NOTES" >> "$CSV"
+echo "✔ atsadd added: $COMPANY | $ROLE"

@@ -1,0 +1,1003 @@
+OK
+OK
+OK
+OK
+ERROR: -1712 Mail got an error: AppleEvent timed out.
+ERROR: -1712 Mail got an error: AppleEvent timed out.
+OK
+ℹ️ No new bounces found.
+✅ targets.csv de-duped
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+SYNTAX=OK
+MX=OK
+✅ Validation done:
+  Valid list:   /Users/irfan/jobs/targets_valid.csv
+  Invalid list: /Users/irfan/jobs/targets_invalid.csv
+✅ Replaced /Users/irfan/jobs/targets.csv with valid-only rows.
+⏭️  Suppressed: careers@northline.com
+⏭️  Suppressed: talent@brightworks.com
+✅ targets.csv de-duped
+✅ targets.csv de-duped
+✅ targets.csv de-duped
+⏭️  Already sent today: hr@acmerail.com
+⏭️  Suppressed: careers@northline.com
+⏭️  Suppressed: talent@brightworks.com
+⏭️  Already sent today: hr@sselectric.com
+⏭️  Already sent today: hr@powergrid.com
+⏭️  Already sent today: apply@lombardtech.com
+⏭️  Already sent today: hr@metropower.com
+⏭️  Already sent today: talent@glprojects.com
+⏭️  Already sent today: hr@abcutilities.com
+⏭️  Already sent today: hr@midwestcontrols.com
+⏭️  Already sent today: careers@exeloncorp.com
+⏭️  Already sent today: careers@sargentlundy.com
+⏭️  Already sent today: careers@wsp.com
+⏭️  Already sent today: careers@hdrinc.com
+⏭️  Already sent today: careers@jacobs.com
+⏭️  Already sent today: careers@parsons.com
+⏭️  Already sent today: careers@burnsmcd.com
+⏭️  Already sent today: careers@kiewit.com
+⏭️  Already sent today: careers@skanska.com
+⏭️  Already sent today: careers@walshgroup.com
+⏭️  Already sent today: careers@aldridgegroup.com
+⏭️  Already sent today: careers@mjelectric.com
+⏭️  Already sent today: careers@fhpaschen.com
+⏭️  Already sent today: careers@metrarr.com
+⏭️  Already sent today: careers@transitchicago.com
+⏭️  Already sent today: careers@pacebus.com
+⏭️  Already sent today: careers@motorolasolutions.com
+⏭️  Already sent today: careers@ul.com
+⏭️  Already sent today: careers@grainger.com
+⏭️  Already sent today: careers@panduit.com
+⏭️  Already sent today: careers@navistar.com
+⏭️  Already sent today: careers@cat.com
+⏭️  Already sent today: careers@abbvie.com
+⏭️  Already sent today: careers@baxter.com
+⏭️  Already sent today: careers@gehealthcare.com
+⏭️  Already sent today: careers@nm.org
+⏭️  Already sent today: careers@aah.org
+⏭️  Already sent today: careers@transdev.com
+⏭️  Already sent today: careers@aon.com
+⏭️  Already sent today: careers@cdw.com
+⏭️  Already sent today: careers@ttx.com
+⏭️  Already sent today: careers@sterlingsolutions.com
+⏭️  Already sent today: careers@primoriscorp.com
+⏭️  Already sent today: careers@mbakerintl.com
+⏭️  Already sent today: careers@stvinc.com
+⏭️  Already sent today: careers@transystems.com
+⏭️  Already sent today: careers@hntb.com
+⏭️  Already sent today: careers@arcadis.com
+⏭️  Already sent today: careers@gfnet.com
+⏭️  Already sent today: careers@rsandh.com
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+⏭️  Already sent today: hr@acmerail.com
+⏭️  Suppressed: careers@northline.com
+⏭️  Suppressed: talent@brightworks.com
+⏭️  Already sent today: hr@sselectric.com
+⏭️  Already sent today: hr@powergrid.com
+⏭️  Already sent today: apply@lombardtech.com
+⏭️  Already sent today: hr@metropower.com
+⏭️  Already sent today: talent@glprojects.com
+⏭️  Already sent today: hr@abcutilities.com
+⏭️  Already sent today: hr@midwestcontrols.com
+⏭️  Already sent today: careers@exeloncorp.com
+⏭️  Already sent today: careers@sargentlundy.com
+⏭️  Already sent today: careers@wsp.com
+⏭️  Already sent today: careers@hdrinc.com
+⏭️  Already sent today: careers@jacobs.com
+⏭️  Already sent today: careers@parsons.com
+⏭️  Already sent today: careers@burnsmcd.com
+⏭️  Already sent today: careers@kiewit.com
+⏭️  Already sent today: careers@skanska.com
+⏭️  Already sent today: careers@walshgroup.com
+⏭️  Already sent today: careers@aldridgegroup.com
+⏭️  Already sent today: careers@mjelectric.com
+⏭️  Already sent today: careers@fhpaschen.com
+⏭️  Already sent today: careers@metrarr.com
+⏭️  Already sent today: careers@transitchicago.com
+⏭️  Already sent today: careers@pacebus.com
+⏭️  Already sent today: careers@motorolasolutions.com
+⏭️  Already sent today: careers@ul.com
+⏭️  Already sent today: careers@grainger.com
+⏭️  Already sent today: careers@panduit.com
+⏭️  Already sent today: careers@navistar.com
+⏭️  Already sent today: careers@cat.com
+⏭️  Already sent today: careers@abbvie.com
+⏭️  Already sent today: careers@baxter.com
+⏭️  Already sent today: careers@gehealthcare.com
+⏭️  Already sent today: careers@nm.org
+⏭️  Already sent today: careers@aah.org
+⏭️  Already sent today: careers@transdev.com
+⏭️  Already sent today: careers@aon.com
+⏭️  Already sent today: careers@cdw.com
+⏭️  Already sent today: careers@ttx.com
+⏭️  Already sent today: careers@sterlingsolutions.com
+⏭️  Already sent today: careers@primoriscorp.com
+⏭️  Already sent today: careers@mbakerintl.com
+⏭️  Already sent today: careers@stvinc.com
+⏭️  Already sent today: careers@transystems.com
+⏭️  Already sent today: careers@hntb.com
+⏭️  Already sent today: careers@arcadis.com
+⏭️  Already sent today: careers@gfnet.com
+⏭️  Already sent today: careers@rsandh.com
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+⏭️  Already sent today: hr@acmerail.com
+⏭️  Suppressed: careers@northline.com
+⏭️  Suppressed: talent@brightworks.com
+⏭️  Already sent today: hr@sselectric.com
+⏭️  Already sent today: hr@powergrid.com
+⏭️  Already sent today: hr@metropower.com
+⏭️  Already sent today: talent@glprojects.com
+⏭️  Already sent today: hr@abcutilities.com
+⏭️  Already sent today: hr@midwestcontrols.com
+⏭️  Already sent today: careers@exeloncorp.com
+⏭️  Already sent today: careers@sargentlundy.com
+⏭️  Already sent today: careers@wsp.com
+⏭️  Already sent today: careers@hdrinc.com
+⏭️  Already sent today: careers@jacobs.com
+⏭️  Already sent today: careers@parsons.com
+⏭️  Already sent today: careers@burnsmcd.com
+⏭️  Already sent today: careers@kiewit.com
+⏭️  Already sent today: careers@skanska.com
+⏭️  Already sent today: careers@walshgroup.com
+⏭️  Already sent today: careers@aldridgegroup.com
+⏭️  Already sent today: careers@mjelectric.com
+⏭️  Already sent today: careers@fhpaschen.com
+⏭️  Already sent today: careers@metrarr.com
+⏭️  Already sent today: careers@transitchicago.com
+⏭️  Already sent today: careers@pacebus.com
+⏭️  Already sent today: careers@motorolasolutions.com
+⏭️  Already sent today: careers@ul.com
+⏭️  Already sent today: careers@grainger.com
+⏭️  Already sent today: careers@panduit.com
+⏭️  Already sent today: careers@navistar.com
+⏭️  Already sent today: careers@cat.com
+⏭️  Already sent today: careers@abbvie.com
+⏭️  Already sent today: careers@baxter.com
+⏭️  Already sent today: careers@gehealthcare.com
+⏭️  Already sent today: careers@nm.org
+⏭️  Already sent today: careers@aah.org
+⏭️  Already sent today: careers@transdev.com
+⏭️  Already sent today: careers@aon.com
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire)
+⏭️  Already sent today: careers@ttx.com
+⏭️  Already sent today: careers@sterlingsolutions.com
+⏭️  Already sent today: careers@primoriscorp.com
+⏭️  Already sent today: careers@mbakerintl.com
+⏭️  Already sent today: careers@stvinc.com
+⏭️  Already sent today: careers@transystems.com
+⏭️  Already sent today: careers@hntb.com
+⏭️  Already sent today: careers@arcadis.com
+⏭️  Already sent today: careers@gfnet.com
+⏭️  Already sent today: careers@rsandh.com
+⏭️  Already sent today: hr@midwestcontrols.com
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+⏭️  Already sent today: hr@acmerail.com
+⏭️  Suppressed: careers@northline.com
+⏭️  Suppressed: talent@brightworks.com
+⏭️  Already sent today: hr@sselectric.com
+⏭️  Already sent today: hr@powergrid.com
+⏭️  Already sent today: hr@metropower.com
+⏭️  Already sent today: talent@glprojects.com
+⏭️  Already sent today: hr@abcutilities.com
+⏭️  Already sent today: hr@midwestcontrols.com
+⏭️  Already sent today: careers@exeloncorp.com
+⏭️  Already sent today: careers@sargentlundy.com
+⏭️  Already sent today: careers@wsp.com
+⏭️  Already sent today: careers@hdrinc.com
+⏭️  Already sent today: careers@jacobs.com
+⏭️  Already sent today: careers@parsons.com
+⏭️  Already sent today: careers@burnsmcd.com
+⏭️  Already sent today: careers@kiewit.com
+⏭️  Already sent today: careers@skanska.com
+⏭️  Already sent today: careers@walshgroup.com
+⏭️  Already sent today: careers@aldridgegroup.com
+⏭️  Already sent today: careers@mjelectric.com
+⏭️  Already sent today: careers@fhpaschen.com
+⏭️  Already sent today: careers@metrarr.com
+⏭️  Already sent today: careers@transitchicago.com
+⏭️  Already sent today: careers@pacebus.com
+⏭️  Already sent today: careers@motorolasolutions.com
+⏭️  Already sent today: careers@ul.com
+⏭️  Already sent today: careers@grainger.com
+⏭️  Already sent today: careers@panduit.com
+⏭️  Already sent today: careers@navistar.com
+⏭️  Already sent today: careers@cat.com
+⏭️  Already sent today: careers@abbvie.com
+⏭️  Already sent today: careers@baxter.com
+⏭️  Already sent today: careers@gehealthcare.com
+⏭️  Already sent today: careers@nm.org
+⏭️  Already sent today: careers@aah.org
+⏭️  Already sent today: careers@transdev.com
+⏭️  Already sent today: careers@aon.com
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire)
+⏭️  Already sent today: careers@ttx.com
+⏭️  Already sent today: careers@sterlingsolutions.com
+⏭️  Already sent today: careers@primoriscorp.com
+⏭️  Already sent today: careers@mbakerintl.com
+⏭️  Already sent today: careers@stvinc.com
+⏭️  Already sent today: careers@transystems.com
+⏭️  Already sent today: careers@hntb.com
+⏭️  Already sent today: careers@arcadis.com
+⏭️  Already sent today: careers@gfnet.com
+⏭️  Already sent today: careers@rsandh.com
+⏭️  Already sent today: hr@midwestcontrols.com
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+⏭️  Already sent today: hr@acmerail.com
+⏭️  Suppressed: careers@northline.com
+⏭️  Suppressed: talent@brightworks.com
+⏭️  Already sent today: hr@sselectric.com
+⏭️  Already sent today: hr@powergrid.com
+⏭️  Already sent today: hr@metropower.com
+⏭️  Already sent today: talent@glprojects.com
+⏭️  Already sent today: hr@abcutilities.com
+⏭️  Already sent today: hr@midwestcontrols.com
+⏭️  Already sent today: careers@exeloncorp.com
+⏭️  Already sent today: careers@sargentlundy.com
+⏭️  Already sent today: careers@wsp.com
+⏭️  Already sent today: careers@hdrinc.com
+⏭️  Already sent today: careers@jacobs.com
+⏭️  Already sent today: careers@parsons.com
+⏭️  Already sent today: careers@burnsmcd.com
+⏭️  Already sent today: careers@kiewit.com
+⏭️  Already sent today: careers@skanska.com
+⏭️  Already sent today: careers@walshgroup.com
+⏭️  Already sent today: careers@aldridgegroup.com
+⏭️  Already sent today: careers@mjelectric.com
+⏭️  Already sent today: careers@fhpaschen.com
+⏭️  Already sent today: careers@metrarr.com
+⏭️  Already sent today: careers@transitchicago.com
+⏭️  Already sent today: careers@pacebus.com
+⏭️  Already sent today: careers@motorolasolutions.com
+⏭️  Already sent today: careers@ul.com
+⏭️  Already sent today: careers@grainger.com
+⏭️  Already sent today: careers@panduit.com
+⏭️  Already sent today: careers@navistar.com
+⏭️  Already sent today: careers@cat.com
+⏭️  Already sent today: careers@abbvie.com
+⏭️  Already sent today: careers@baxter.com
+⏭️  Already sent today: careers@gehealthcare.com
+⏭️  Already sent today: careers@nm.org
+⏭️  Already sent today: careers@aah.org
+⏭️  Already sent today: careers@transdev.com
+⏭️  Already sent today: careers@aon.com
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire)
+⏭️  Already sent today: careers@ttx.com
+⏭️  Already sent today: careers@sterlingsolutions.com
+⏭️  Already sent today: careers@primoriscorp.com
+⏭️  Already sent today: careers@mbakerintl.com
+⏭️  Already sent today: careers@stvinc.com
+⏭️  Already sent today: careers@transystems.com
+⏭️  Already sent today: careers@hntb.com
+⏭️  Already sent today: careers@arcadis.com
+⏭️  Already sent today: careers@gfnet.com
+⏭️  Already sent today: careers@rsandh.com
+⏭️  Already sent today: hr@midwestcontrols.com
+⏭️  Already sent today: careers@example.com
+⏭️  Already sent today: careers@remotetech.co.uk
+⏭️  Already sent today: hr@maplesystems.ca
+⏭️  Already sent today: hr@swisssystems.ch
+⏭️  Already sent today: hr@eurorail.de
+⏭️  Already sent today: hr@bluemaple.ca
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+[2026-02-20 22:39:35] Start apply batch
+⏭️  Already sent today: hr@acmerail.com
+⏭️  Suppressed: careers@northline.com
+⏭️  Suppressed: talent@brightworks.com
+⏭️  Already sent today: hr@sselectric.com
+⏭️  Already sent today: hr@powergrid.com
+⏭️  Already sent today: hr@metropower.com
+⏭️  Already sent today: talent@glprojects.com
+⏭️  Already sent today: hr@abcutilities.com
+⏭️  Already sent today: hr@midwestcontrols.com
+⏭️  Already sent today: careers@exeloncorp.com
+⏭️  Already sent today: careers@sargentlundy.com
+⏭️  Already sent today: careers@wsp.com
+⏭️  Already sent today: careers@hdrinc.com
+⏭️  Already sent today: careers@jacobs.com
+⏭️  Already sent today: careers@parsons.com
+⏭️  Already sent today: careers@burnsmcd.com
+⏭️  Already sent today: careers@kiewit.com
+⏭️  Already sent today: careers@skanska.com
+⏭️  Already sent today: careers@walshgroup.com
+⏭️  Already sent today: careers@aldridgegroup.com
+⏭️  Already sent today: careers@mjelectric.com
+⏭️  Already sent today: careers@fhpaschen.com
+⏭️  Already sent today: careers@metrarr.com
+⏭️  Already sent today: careers@transitchicago.com
+⏭️  Already sent today: careers@pacebus.com
+⏭️  Already sent today: careers@motorolasolutions.com
+⏭️  Already sent today: careers@ul.com
+⏭️  Already sent today: careers@grainger.com
+⏭️  Already sent today: careers@panduit.com
+⏭️  Already sent today: careers@navistar.com
+⏭️  Already sent today: careers@cat.com
+⏭️  Already sent today: careers@abbvie.com
+⏭️  Already sent today: careers@baxter.com
+⏭️  Already sent today: careers@gehealthcare.com
+⏭️  Already sent today: careers@nm.org
+⏭️  Already sent today: careers@aah.org
+⏭️  Already sent today: careers@transdev.com
+⏭️  Already sent today: careers@aon.com
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire)
+⏭️  Already sent today: careers@ttx.com
+⏭️  Already sent today: careers@sterlingsolutions.com
+⏭️  Already sent today: careers@primoriscorp.com
+⏭️  Already sent today: careers@mbakerintl.com
+⏭️  Already sent today: careers@stvinc.com
+⏭️  Already sent today: careers@transystems.com
+⏭️  Already sent today: careers@hntb.com
+⏭️  Already sent today: careers@arcadis.com
+⏭️  Already sent today: careers@gfnet.com
+⏭️  Already sent today: careers@rsandh.com
+⏭️  Already sent today: hr@midwestcontrols.com
+⏭️  Already sent today: careers@example.com
+⏭️  Already sent today: careers@remotetech.co.uk
+⏭️  Already sent today: hr@maplesystems.ca
+⏭️  Already sent today: hr@swisssystems.ch
+⏭️  Already sent today: hr@eurorail.de
+⏭️  Already sent today: hr@bluemaple.ca
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+[2026-02-20 22:39:35] Done
+[2026-02-20 22:40:06] Start apply batch
+⏭️  Already sent today: hr@acmerail.com
+⏭️  Suppressed: careers@northline.com
+⏭️  Suppressed: talent@brightworks.com
+⏭️  Already sent today: hr@sselectric.com
+⏭️  Already sent today: hr@powergrid.com
+⏭️  Already sent today: hr@metropower.com
+⏭️  Already sent today: talent@glprojects.com
+⏭️  Already sent today: hr@abcutilities.com
+⏭️  Already sent today: hr@midwestcontrols.com
+⏭️  Already sent today: careers@exeloncorp.com
+⏭️  Already sent today: careers@sargentlundy.com
+⏭️  Already sent today: careers@wsp.com
+⏭️  Already sent today: careers@hdrinc.com
+⏭️  Already sent today: careers@jacobs.com
+⏭️  Already sent today: careers@parsons.com
+⏭️  Already sent today: careers@burnsmcd.com
+⏭️  Already sent today: careers@kiewit.com
+⏭️  Already sent today: careers@skanska.com
+⏭️  Already sent today: careers@walshgroup.com
+⏭️  Already sent today: careers@aldridgegroup.com
+⏭️  Already sent today: careers@mjelectric.com
+⏭️  Already sent today: careers@fhpaschen.com
+⏭️  Already sent today: careers@metrarr.com
+⏭️  Already sent today: careers@transitchicago.com
+⏭️  Already sent today: careers@pacebus.com
+⏭️  Already sent today: careers@motorolasolutions.com
+⏭️  Already sent today: careers@ul.com
+⏭️  Already sent today: careers@grainger.com
+⏭️  Already sent today: careers@panduit.com
+⏭️  Already sent today: careers@navistar.com
+⏭️  Already sent today: careers@cat.com
+⏭️  Already sent today: careers@abbvie.com
+⏭️  Already sent today: careers@baxter.com
+⏭️  Already sent today: careers@gehealthcare.com
+⏭️  Already sent today: careers@nm.org
+⏭️  Already sent today: careers@aah.org
+⏭️  Already sent today: careers@transdev.com
+⏭️  Already sent today: careers@aon.com
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire)
+⏭️  Already sent today: careers@ttx.com
+⏭️  Already sent today: careers@sterlingsolutions.com
+⏭️  Already sent today: careers@primoriscorp.com
+⏭️  Already sent today: careers@mbakerintl.com
+⏭️  Already sent today: careers@stvinc.com
+⏭️  Already sent today: careers@transystems.com
+⏭️  Already sent today: careers@hntb.com
+⏭️  Already sent today: careers@arcadis.com
+⏭️  Already sent today: careers@gfnet.com
+⏭️  Already sent today: careers@rsandh.com
+⏭️  Already sent today: hr@midwestcontrols.com
+⏭️  Already sent today: careers@example.com
+⏭️  Already sent today: careers@remotetech.co.uk
+⏭️  Already sent today: hr@maplesystems.ca
+⏭️  Already sent today: hr@swisssystems.ch
+⏭️  Already sent today: hr@eurorail.de
+⏭️  Already sent today: hr@bluemaple.ca
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+[2026-02-20 22:40:06] Done
+[2026-02-21 08:00:01] Start apply batch
+⏭️  Skip 7d window: hr@acmerail.com (1 d)
+⏭️  Skip 7d window: hr@acmerail.com (1 d)
+⏭️  Suppressed: careers@northline.com
+⏭️  Suppressed: careers@northline.com
+⏭️  Suppressed: talent@brightworks.com
+⏭️  Suppressed: talent@brightworks.com
+⏭️  Skip 7d window: hr@sselectric.com (1 d)
+⏭️  Skip 7d window: hr@sselectric.com (1 d)
+⏭️  Skip 7d window: hr@powergrid.com (1 d)
+⏭️  Skip 7d window: hr@powergrid.com (1 d)
+⏭️  Skip 7d window: hr@metropower.com (1 d)
+⏭️  Skip 7d window: hr@metropower.com (1 d)
+⏭️  Skip 7d window: talent@glprojects.com (1 d)
+⏭️  Skip 7d window: talent@glprojects.com (1 d)
+⏭️  Skip 7d window: hr@abcutilities.com (1 d)
+⏭️  Skip 7d window: hr@abcutilities.com (1 d)
+⏭️  Skip 7d window: hr@midwestcontrols.com (1 d)
+⏭️  Skip 7d window: hr@midwestcontrols.com (1 d)
+⏭️  Skip 7d window: careers@exeloncorp.com (1 d)
+⏭️  Skip 7d window: careers@exeloncorp.com (1 d)
+⏭️  Skip 7d window: careers@sargentlundy.com (1 d)
+⏭️  Skip 7d window: careers@sargentlundy.com (1 d)
+⏭️  Skip 7d window: careers@wsp.com (1 d)
+⏭️  Skip 7d window: careers@wsp.com (1 d)
+⏭️  Skip 7d window: careers@hdrinc.com (1 d)
+⏭️  Skip 7d window: careers@hdrinc.com (1 d)
+⏭️  Skip 7d window: careers@jacobs.com (1 d)
+⏭️  Skip 7d window: careers@jacobs.com (1 d)
+⏭️  Skip 7d window: careers@parsons.com (1 d)
+⏭️  Skip 7d window: careers@parsons.com (1 d)
+⏭️  Skip 7d window: careers@burnsmcd.com (1 d)
+⏭️  Skip 7d window: careers@burnsmcd.com (1 d)
+⏭️  Skip 7d window: careers@kiewit.com (1 d)
+⏭️  Skip 7d window: careers@kiewit.com (1 d)
+⏭️  Skip 7d window: careers@skanska.com (1 d)
+⏭️  Skip 7d window: careers@skanska.com (1 d)
+⏭️  Skip 7d window: careers@walshgroup.com (1 d)
+⏭️  Skip 7d window: careers@walshgroup.com (1 d)
+⏭️  Skip 7d window: careers@aldridgegroup.com (1 d)
+⏭️  Skip 7d window: careers@aldridgegroup.com (1 d)
+⏭️  Skip 7d window: careers@mjelectric.com (1 d)
+⏭️  Skip 7d window: careers@mjelectric.com (1 d)
+⏭️  Skip 7d window: careers@fhpaschen.com (1 d)
+⏭️  Skip 7d window: careers@fhpaschen.com (1 d)
+⏭️  Skip 7d window: careers@metrarr.com (1 d)
+⏭️  Skip 7d window: careers@metrarr.com (1 d)
+⏭️  Skip 7d window: careers@transitchicago.com (1 d)
+⏭️  Skip 7d window: careers@transitchicago.com (1 d)
+⏭️  Skip 7d window: careers@pacebus.com (1 d)
+⏭️  Skip 7d window: careers@pacebus.com (1 d)
+⏭️  Skip 7d window: careers@motorolasolutions.com (1 d)
+⏭️  Skip 7d window: careers@motorolasolutions.com (1 d)
+⏭️  Skip 7d window: careers@ul.com (1 d)
+⏭️  Skip 7d window: careers@ul.com (1 d)
+⏭️  Skip 7d window: careers@grainger.com (1 d)
+⏭️  Skip 7d window: careers@panduit.com (1 d)
+⏭️  Skip 7d window: careers@grainger.com (1 d)
+⏭️  Skip 7d window: careers@navistar.com (1 d)
+⏭️  Skip 7d window: careers@panduit.com (1 d)
+⏭️  Skip 7d window: careers@cat.com (1 d)
+⏭️  Skip 7d window: careers@navistar.com (1 d)
+⏭️  Skip 7d window: careers@abbvie.com (1 d)
+⏭️  Skip 7d window: careers@cat.com (1 d)
+⏭️  Skip 7d window: careers@baxter.com (1 d)
+⏭️  Skip 7d window: careers@abbvie.com (1 d)
+⏭️  Skip 7d window: careers@gehealthcare.com (1 d)
+⏭️  Skip 7d window: careers@baxter.com (1 d)
+⏭️  Skip 7d window: careers@nm.org (1 d)
+⏭️  Skip 7d window: careers@gehealthcare.com (1 d)
+⏭️  Skip 7d window: careers@aah.org (1 d)
+⏭️  Skip 7d window: careers@nm.org (1 d)
+⏭️  Skip 7d window: careers@transdev.com (1 d)
+⏭️  Skip 7d window: careers@aah.org (1 d)
+⏭️  Skip 7d window: careers@aon.com (1 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire)
+⏭️  Skip 7d window: careers@transdev.com (1 d)
+⏭️  Skip 7d window: careers@ttx.com (1 d)
+⏭️  Skip 7d window: careers@aon.com (1 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire)
+⏭️  Skip 7d window: careers@sterlingsolutions.com (1 d)
+⏭️  Skip 7d window: careers@ttx.com (1 d)
+⏭️  Skip 7d window: careers@primoriscorp.com (1 d)
+⏭️  Skip 7d window: careers@sterlingsolutions.com (1 d)
+⏭️  Skip 7d window: careers@mbakerintl.com (1 d)
+⏭️  Skip 7d window: careers@primoriscorp.com (1 d)
+⏭️  Skip 7d window: careers@stvinc.com (1 d)
+⏭️  Skip 7d window: careers@mbakerintl.com (1 d)
+⏭️  Skip 7d window: careers@transystems.com (1 d)
+⏭️  Skip 7d window: careers@stvinc.com (1 d)
+⏭️  Skip 7d window: careers@hntb.com (1 d)
+⏭️  Skip 7d window: careers@transystems.com (1 d)
+⏭️  Skip 7d window: careers@arcadis.com (1 d)
+⏭️  Skip 7d window: careers@hntb.com (1 d)
+⏭️  Skip 7d window: careers@gfnet.com (1 d)
+⏭️  Skip 7d window: careers@arcadis.com (1 d)
+⏭️  Skip 7d window: careers@rsandh.com (1 d)
+⏭️  Skip 7d window: careers@gfnet.com (1 d)
+⏭️  Skip 7d window: hr@midwestcontrols.com (1 d)
+⏭️  Skip 7d window: careers@example.com (1 d)
+⏭️  Skip 7d window: careers@rsandh.com (1 d)
+⏭️  Skip 7d window: careers@remotetech.co.uk (1 d)
+⏭️  Skip 7d window: hr@midwestcontrols.com (1 d)
+⏭️  Skip 7d window: hr@maplesystems.ca (1 d)
+⏭️  Skip 7d window: careers@example.com (1 d)
+⏭️  Skip 7d window: hr@swisssystems.ch (1 d)
+⏭️  Skip 7d window: careers@remotetech.co.uk (1 d)
+⏭️  Skip 7d window: hr@eurorail.de (1 d)
+⏭️  Skip 7d window: hr@maplesystems.ca (1 d)
+⏭️  Skip 7d window: hr@bluemaple.ca (1 d)
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+⏭️  Skip 7d window: hr@swisssystems.ch (1 d)
+⏭️  Skip 7d window: hr@eurorail.de (1 d)
+⏭️  Skip 7d window: hr@bluemaple.ca (1 d)
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+[2026-02-21 08:00:01] Done
+[2026-02-21 12:05:59] Start apply batch
+⏭️  Skip 7d window: hr@acmerail.com (1 d)
+⏭️  Suppressed: careers@northline.com
+⏭️  Skip 7d window: hr@acmerail.com (1 d)
+⏭️  Suppressed: talent@brightworks.com
+⏭️  Suppressed: careers@northline.com
+⏭️  Suppressed: talent@brightworks.com
+⏭️  Skip 7d window: hr@sselectric.com (1 d)
+⏭️  Skip 7d window: hr@sselectric.com (1 d)
+⏭️  Skip 7d window: hr@powergrid.com (1 d)
+⏭️  Skip 7d window: hr@powergrid.com (1 d)
+⏭️  Skip 7d window: hr@metropower.com (1 d)
+⏭️  Skip 7d window: hr@metropower.com (1 d)
+⏭️  Skip 7d window: talent@glprojects.com (1 d)
+⏭️  Skip 7d window: talent@glprojects.com (1 d)
+⏭️  Skip 7d window: hr@abcutilities.com (1 d)
+⏭️  Skip 7d window: hr@abcutilities.com (1 d)
+⏭️  Skip 7d window: hr@midwestcontrols.com (1 d)
+⏭️  Skip 7d window: hr@midwestcontrols.com (1 d)
+⏭️  Skip 7d window: careers@exeloncorp.com (1 d)
+⏭️  Skip 7d window: careers@exeloncorp.com (1 d)
+⏭️  Skip 7d window: careers@sargentlundy.com (1 d)
+⏭️  Skip 7d window: careers@sargentlundy.com (1 d)
+⏭️  Skip 7d window: careers@wsp.com (1 d)
+⏭️  Skip 7d window: careers@wsp.com (1 d)
+⏭️  Skip 7d window: careers@hdrinc.com (1 d)
+⏭️  Skip 7d window: careers@hdrinc.com (1 d)
+⏭️  Skip 7d window: careers@jacobs.com (1 d)
+⏭️  Skip 7d window: careers@jacobs.com (1 d)
+⏭️  Skip 7d window: careers@parsons.com (1 d)
+⏭️  Skip 7d window: careers@parsons.com (1 d)
+⏭️  Skip 7d window: careers@burnsmcd.com (1 d)
+⏭️  Skip 7d window: careers@burnsmcd.com (1 d)
+⏭️  Skip 7d window: careers@kiewit.com (1 d)
+⏭️  Skip 7d window: careers@kiewit.com (1 d)
+⏭️  Skip 7d window: careers@skanska.com (1 d)
+⏭️  Skip 7d window: careers@skanska.com (1 d)
+⏭️  Skip 7d window: careers@walshgroup.com (1 d)
+⏭️  Skip 7d window: careers@aldridgegroup.com (1 d)
+⏭️  Skip 7d window: careers@walshgroup.com (1 d)
+⏭️  Skip 7d window: careers@mjelectric.com (1 d)
+⏭️  Skip 7d window: careers@aldridgegroup.com (1 d)
+⏭️  Skip 7d window: careers@fhpaschen.com (1 d)
+⏭️  Skip 7d window: careers@mjelectric.com (1 d)
+⏭️  Skip 7d window: careers@metrarr.com (1 d)
+⏭️  Skip 7d window: careers@fhpaschen.com (1 d)
+⏭️  Skip 7d window: careers@transitchicago.com (1 d)
+⏭️  Skip 7d window: careers@metrarr.com (1 d)
+⏭️  Skip 7d window: careers@pacebus.com (1 d)
+⏭️  Skip 7d window: careers@transitchicago.com (1 d)
+⏭️  Skip 7d window: careers@motorolasolutions.com (1 d)
+⏭️  Skip 7d window: careers@pacebus.com (1 d)
+⏭️  Skip 7d window: careers@ul.com (1 d)
+⏭️  Skip 7d window: careers@motorolasolutions.com (1 d)
+⏭️  Skip 7d window: careers@grainger.com (1 d)
+⏭️  Skip 7d window: careers@ul.com (1 d)
+⏭️  Skip 7d window: careers@panduit.com (1 d)
+⏭️  Skip 7d window: careers@grainger.com (1 d)
+⏭️  Skip 7d window: careers@navistar.com (1 d)
+⏭️  Skip 7d window: careers@panduit.com (1 d)
+⏭️  Skip 7d window: careers@cat.com (1 d)
+⏭️  Skip 7d window: careers@navistar.com (1 d)
+⏭️  Skip 7d window: careers@abbvie.com (1 d)
+⏭️  Skip 7d window: careers@cat.com (1 d)
+⏭️  Skip 7d window: careers@baxter.com (1 d)
+⏭️  Skip 7d window: careers@abbvie.com (1 d)
+⏭️  Skip 7d window: careers@gehealthcare.com (1 d)
+⏭️  Skip 7d window: careers@baxter.com (1 d)
+⏭️  Skip 7d window: careers@nm.org (1 d)
+⏭️  Skip 7d window: careers@aah.org (1 d)
+⏭️  Skip 7d window: careers@gehealthcare.com (1 d)
+⏭️  Skip 7d window: careers@transdev.com (1 d)
+⏭️  Skip 7d window: careers@nm.org (1 d)
+⏭️  Skip 7d window: careers@aon.com (1 d)
+⏭️  Skip 7d window: careers@aah.org (1 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire)
+⏭️  Skip 7d window: careers@transdev.com (1 d)
+⏭️  Skip 7d window: careers@ttx.com (1 d)
+⏭️  Skip 7d window: careers@sterlingsolutions.com (1 d)
+⏭️  Skip 7d window: careers@aon.com (1 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire)
+⏭️  Skip 7d window: careers@primoriscorp.com (1 d)
+⏭️  Skip 7d window: careers@ttx.com (1 d)
+⏭️  Skip 7d window: careers@mbakerintl.com (1 d)
+⏭️  Skip 7d window: careers@sterlingsolutions.com (1 d)
+⏭️  Skip 7d window: careers@stvinc.com (1 d)
+⏭️  Skip 7d window: careers@primoriscorp.com (1 d)
+⏭️  Skip 7d window: careers@transystems.com (1 d)
+⏭️  Skip 7d window: careers@mbakerintl.com (1 d)
+⏭️  Skip 7d window: careers@hntb.com (1 d)
+⏭️  Skip 7d window: careers@stvinc.com (1 d)
+⏭️  Skip 7d window: careers@arcadis.com (1 d)
+⏭️  Skip 7d window: careers@transystems.com (1 d)
+⏭️  Skip 7d window: careers@gfnet.com (1 d)
+⏭️  Skip 7d window: careers@hntb.com (1 d)
+⏭️  Skip 7d window: careers@rsandh.com (1 d)
+⏭️  Skip 7d window: careers@arcadis.com (1 d)
+⏭️  Skip 7d window: hr@midwestcontrols.com (1 d)
+⏭️  Skip 7d window: careers@example.com (1 d)
+⏭️  Skip 7d window: careers@gfnet.com (1 d)
+⏭️  Skip 7d window: careers@remotetech.co.uk (1 d)
+⏭️  Skip 7d window: careers@rsandh.com (1 d)
+⏭️  Skip 7d window: hr@maplesystems.ca (1 d)
+⏭️  Skip 7d window: hr@midwestcontrols.com (1 d)
+⏭️  Skip 7d window: hr@swisssystems.ch (1 d)
+⏭️  Skip 7d window: careers@example.com (1 d)
+⏭️  Skip 7d window: hr@eurorail.de (1 d)
+⏭️  Skip 7d window: careers@remotetech.co.uk (1 d)
+⏭️  Skip 7d window: hr@bluemaple.ca (1 d)
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+⏭️  Skip 7d window: hr@maplesystems.ca (1 d)
+⏭️  Skip 7d window: hr@swisssystems.ch (1 d)
+⏭️  Skip 7d window: hr@eurorail.de (1 d)
+⏭️  Skip 7d window: hr@bluemaple.ca (1 d)
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+[2026-02-21 12:05:59] Done
+[2026-02-21 17:03:21] Start apply batch
+⏭️  Skip 7d window: hr@acmerail.com (1 d)
+⏭️  Skip 7d window: hr@acmerail.com (1 d)
+⏭️  Skip 7d window: hr@sselectric.com (1 d)
+⏭️  Skip 7d window: hr@sselectric.com (1 d)
+⏭️  Skip 7d window: hr@powergrid.com (1 d)
+⏭️  Skip 7d window: hr@powergrid.com (1 d)
+⏭️  Skip 7d window: hr@metropower.com (1 d)
+⏭️  Skip 7d window: hr@metropower.com (1 d)
+⏭️  Skip 7d window: talent@glprojects.com (1 d)
+⏭️  Skip 7d window: talent@glprojects.com (1 d)
+⏭️  Skip 7d window: hr@abcutilities.com (1 d)
+⏭️  Skip 7d window: hr@abcutilities.com (1 d)
+⏭️  Skip 7d window: careers@exeloncorp.com (1 d)
+⏭️  Skip 7d window: careers@exeloncorp.com (1 d)
+⏭️  Skip 7d window: careers@sargentlundy.com (1 d)
+⏭️  Skip 7d window: careers@sargentlundy.com (1 d)
+⏭️  Skip 7d window: careers@wsp.com (1 d)
+⏭️  Skip 7d window: careers@wsp.com (1 d)
+⏭️  Skip 7d window: careers@hdrinc.com (1 d)
+⏭️  Skip 7d window: careers@hdrinc.com (1 d)
+⏭️  Skip 7d window: careers@jacobs.com (1 d)
+⏭️  Skip 7d window: careers@jacobs.com (1 d)
+⏭️  Skip 7d window: careers@burnsmcd.com (1 d)
+⏭️  Skip 7d window: careers@burnsmcd.com (1 d)
+⏭️  Skip 7d window: careers@walshgroup.com (1 d)
+⏭️  Skip 7d window: careers@walshgroup.com (1 d)
+⏭️  Skip 7d window: careers@aldridgegroup.com (1 d)
+⏭️  Skip 7d window: careers@aldridgegroup.com (1 d)
+⏭️  Skip 7d window: careers@fhpaschen.com (1 d)
+⏭️  Skip 7d window: careers@fhpaschen.com (1 d)
+⏭️  Skip 7d window: careers@metrarr.com (1 d)
+⏭️  Skip 7d window: careers@metrarr.com (1 d)
+⏭️  Skip 7d window: careers@motorolasolutions.com (1 d)
+⏭️  Skip 7d window: careers@motorolasolutions.com (1 d)
+⏭️  Skip 7d window: careers@grainger.com (1 d)
+⏭️  Skip 7d window: careers@grainger.com (1 d)
+⏭️  Skip 7d window: careers@navistar.com (1 d)
+⏭️  Skip 7d window: careers@navistar.com (1 d)
+⏭️  Skip 7d window: careers@cat.com (1 d)
+⏭️  Skip 7d window: careers@cat.com (1 d)
+⏭️  Skip 7d window: careers@abbvie.com (1 d)
+⏭️  Skip 7d window: careers@gehealthcare.com (1 d)
+⏭️  Skip 7d window: careers@abbvie.com (1 d)
+⏭️  Skip 7d window: careers@nm.org (1 d)
+⏭️  Skip 7d window: careers@gehealthcare.com (1 d)
+⏭️  Skip 7d window: careers@aah.org (1 d)
+⏭️  Skip 7d window: careers@nm.org (1 d)
+⏭️  Skip 7d window: careers@aon.com (1 d)
+⏭️  Skip 7d window: careers@aah.org (1 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire (Chicago area))
+⏭️  Skip 7d window: careers@aon.com (1 d)
+⏭️  Skip 7d window: careers@sterlingsolutions.com (1 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire (Chicago area))
+⏭️  Skip 7d window: careers@primoriscorp.com (1 d)
+⏭️  Skip 7d window: careers@sterlingsolutions.com (1 d)
+⏭️  Skip 7d window: careers@mbakerintl.com (1 d)
+⏭️  Skip 7d window: careers@primoriscorp.com (1 d)
+⏭️  Skip 7d window: careers@stvinc.com (1 d)
+⏭️  Skip 7d window: careers@mbakerintl.com (1 d)
+⏭️  Skip 7d window: careers@hntb.com (1 d)
+⏭️  Skip 7d window: careers@stvinc.com (1 d)
+⏭️  Skip 7d window: careers@gfnet.com (1 d)
+⏭️  Skip 7d window: careers@hntb.com (1 d)
+⏭️  Skip 7d window: careers@example.com (1 d)
+⏭️  Skip 7d window: careers@gfnet.com (1 d)
+⏭️  Skip 7d window: careers@remotetech.co.uk (1 d)
+⏭️  Skip 7d window: careers@example.com (1 d)
+⏭️  Skip 7d window: hr@maplesystems.ca (1 d)
+⏭️  Skip 7d window: careers@remotetech.co.uk (1 d)
+⏭️  Skip 7d window: hr@eurorail.de (1 d)
+⏭️  Skip 7d window: hr@maplesystems.ca (1 d)
+⏭️  Skip 7d window: hr@bluemaple.ca (1 d)
+⏭️  Skip 7d window: hr@eurorail.de (1 d)
+⏭️  Skip 7d window: hr@bluemaple.ca (1 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire (Chicago area))
+⏭️  Skip 7d window: hr@bluemaple.ca (1 d)
+⏭️  Skip 7d window: careers@jacobs.com (1 d)
+⏭️  Skip 7d window: hr@bluemaple.ca (1 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire (Chicago area))
+⏭️  Skip 7d window: careers@jacobs.com (1 d)
+📨 Sent: Example Controls <hr@examplecontrols.com> — Controls Engineer (Chicago (Chicago area))
+⏭️  Already sent today: careers@acelectric.com
+⏭️  No MX: hr@remotesys.se
+✅ apply_now: Sent 1 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+❌ Send error: Example Controls <hr@examplecontrols.com>
+⏭️  Already sent today: careers@acelectric.com
+⏭️  No MX: hr@remotesys.se
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+[2026-02-21 17:03:21] Done
+[2026-02-22 08:01:16] Start apply batch
+⏭️  Skip 7d window: hr@acmerail.com (2 d)
+⏭️  Skip 7d window: hr@acmerail.com (2 d)
+⏭️  Skip 7d window: hr@sselectric.com (2 d)
+⏭️  Skip 7d window: hr@sselectric.com (2 d)
+⏭️  Skip 7d window: hr@powergrid.com (2 d)
+⏭️  Skip 7d window: hr@powergrid.com (2 d)
+⏭️  Skip 7d window: hr@metropower.com (2 d)
+⏭️  Skip 7d window: hr@metropower.com (2 d)
+⏭️  Skip 7d window: talent@glprojects.com (2 d)
+⏭️  Skip 7d window: talent@glprojects.com (2 d)
+⏭️  Skip 7d window: hr@abcutilities.com (2 d)
+⏭️  Skip 7d window: hr@abcutilities.com (2 d)
+⏭️  Skip 7d window: careers@exeloncorp.com (2 d)
+⏭️  Skip 7d window: careers@exeloncorp.com (2 d)
+⏭️  Skip 7d window: careers@sargentlundy.com (2 d)
+⏭️  Skip 7d window: careers@sargentlundy.com (2 d)
+⏭️  Skip 7d window: careers@wsp.com (2 d)
+⏭️  Skip 7d window: careers@wsp.com (2 d)
+⏭️  Skip 7d window: careers@hdrinc.com (2 d)
+⏭️  Skip 7d window: careers@hdrinc.com (2 d)
+⏭️  Skip 7d window: careers@jacobs.com (2 d)
+⏭️  Skip 7d window: careers@jacobs.com (2 d)
+⏭️  Skip 7d window: careers@burnsmcd.com (2 d)
+⏭️  Skip 7d window: careers@burnsmcd.com (2 d)
+⏭️  Skip 7d window: careers@walshgroup.com (2 d)
+⏭️  Skip 7d window: careers@walshgroup.com (2 d)
+⏭️  Skip 7d window: careers@aldridgegroup.com (2 d)
+⏭️  Skip 7d window: careers@aldridgegroup.com (2 d)
+⏭️  Skip 7d window: careers@fhpaschen.com (2 d)
+⏭️  Skip 7d window: careers@fhpaschen.com (2 d)
+⏭️  Skip 7d window: careers@metrarr.com (2 d)
+⏭️  Skip 7d window: careers@metrarr.com (2 d)
+⏭️  Skip 7d window: careers@motorolasolutions.com (2 d)
+⏭️  Skip 7d window: careers@motorolasolutions.com (2 d)
+⏭️  Skip 7d window: careers@grainger.com (2 d)
+⏭️  Skip 7d window: careers@grainger.com (2 d)
+⏭️  Skip 7d window: careers@navistar.com (2 d)
+⏭️  Skip 7d window: careers@navistar.com (2 d)
+⏭️  Skip 7d window: careers@cat.com (2 d)
+⏭️  Skip 7d window: careers@cat.com (2 d)
+⏭️  Skip 7d window: careers@abbvie.com (2 d)
+⏭️  Skip 7d window: careers@abbvie.com (2 d)
+⏭️  Skip 7d window: careers@gehealthcare.com (2 d)
+⏭️  Skip 7d window: careers@gehealthcare.com (2 d)
+⏭️  Skip 7d window: careers@nm.org (2 d)
+⏭️  Skip 7d window: careers@nm.org (2 d)
+⏭️  Skip 7d window: careers@aah.org (2 d)
+⏭️  Skip 7d window: careers@aah.org (2 d)
+⏭️  Skip 7d window: careers@aon.com (2 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire (Chicago area))
+⏭️  Skip 7d window: careers@aon.com (2 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire (Chicago area))
+⏭️  Skip 7d window: careers@sterlingsolutions.com (2 d)
+⏭️  Skip 7d window: careers@sterlingsolutions.com (2 d)
+⏭️  Skip 7d window: careers@primoriscorp.com (2 d)
+⏭️  Skip 7d window: careers@primoriscorp.com (2 d)
+⏭️  Skip 7d window: careers@mbakerintl.com (2 d)
+⏭️  Skip 7d window: careers@mbakerintl.com (2 d)
+⏭️  Skip 7d window: careers@stvinc.com (2 d)
+⏭️  Skip 7d window: careers@stvinc.com (2 d)
+⏭️  Skip 7d window: careers@hntb.com (2 d)
+⏭️  Skip 7d window: careers@hntb.com (2 d)
+⏭️  Skip 7d window: careers@gfnet.com (2 d)
+⏭️  Skip 7d window: careers@gfnet.com (2 d)
+⏭️  Skip 7d window: careers@example.com (2 d)
+⏭️  Skip 7d window: careers@remotetech.co.uk (2 d)
+⏭️  Skip 7d window: careers@example.com (2 d)
+⏭️  Skip 7d window: hr@maplesystems.ca (2 d)
+⏭️  Skip 7d window: careers@remotetech.co.uk (2 d)
+⏭️  Skip 7d window: hr@eurorail.de (2 d)
+⏭️  Skip 7d window: hr@maplesystems.ca (2 d)
+⏭️  Skip 7d window: hr@bluemaple.ca (2 d)
+⏭️  Skip 7d window: hr@eurorail.de (2 d)
+⏭️  Skip 7d window: hr@bluemaple.ca (2 d)
+⏭️  Skip 7d window: hr@bluemaple.ca (2 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire (Chicago area))
+⏭️  Skip 7d window: hr@bluemaple.ca (2 d)
+⏭️  Skip 7d window: careers@jacobs.com (2 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire (Chicago area))
+⏭️  Skip 7d window: hr@examplecontrols.com (1 d)
+⏭️  Skip 7d window: careers@jacobs.com (2 d)
+⏭️  Skip 7d window: careers@acelectric.com (1 d)
+⏭️  Skip 7d window: hr@examplecontrols.com (1 d)
+⏭️  Skip 7d window: careers@acelectric.com (1 d)
+⏭️  No MX: hr@remotesys.se
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+⏭️  No MX: hr@remotesys.se
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+[2026-02-22 08:01:16] Done
+[2026-02-22 12:15:20] Start apply batch
+⏭️  Skip 7d window: hr@acmerail.com (2 d)
+⏭️  Skip 7d window: hr@acmerail.com (2 d)
+⏭️  Skip 7d window: hr@sselectric.com (2 d)
+⏭️  Skip 7d window: hr@sselectric.com (2 d)
+⏭️  Skip 7d window: hr@powergrid.com (2 d)
+⏭️  Skip 7d window: hr@powergrid.com (2 d)
+⏭️  Skip 7d window: hr@metropower.com (2 d)
+⏭️  Skip 7d window: hr@metropower.com (2 d)
+⏭️  Skip 7d window: talent@glprojects.com (2 d)
+⏭️  Skip 7d window: talent@glprojects.com (2 d)
+⏭️  Skip 7d window: hr@abcutilities.com (2 d)
+⏭️  Skip 7d window: hr@abcutilities.com (2 d)
+⏭️  Skip 7d window: careers@exeloncorp.com (2 d)
+⏭️  Skip 7d window: careers@exeloncorp.com (2 d)
+⏭️  Skip 7d window: careers@sargentlundy.com (2 d)
+⏭️  Skip 7d window: careers@sargentlundy.com (2 d)
+⏭️  Skip 7d window: careers@wsp.com (2 d)
+⏭️  Skip 7d window: careers@wsp.com (2 d)
+⏭️  Skip 7d window: careers@hdrinc.com (2 d)
+⏭️  Skip 7d window: careers@hdrinc.com (2 d)
+⏭️  Skip 7d window: careers@jacobs.com (2 d)
+⏭️  Skip 7d window: careers@jacobs.com (2 d)
+⏭️  Skip 7d window: careers@burnsmcd.com (2 d)
+⏭️  Skip 7d window: careers@burnsmcd.com (2 d)
+⏭️  Skip 7d window: careers@walshgroup.com (2 d)
+⏭️  Skip 7d window: careers@walshgroup.com (2 d)
+⏭️  Skip 7d window: careers@aldridgegroup.com (2 d)
+⏭️  Skip 7d window: careers@aldridgegroup.com (2 d)
+⏭️  Skip 7d window: careers@fhpaschen.com (2 d)
+⏭️  Skip 7d window: careers@fhpaschen.com (2 d)
+⏭️  Skip 7d window: careers@metrarr.com (2 d)
+⏭️  Skip 7d window: careers@metrarr.com (2 d)
+⏭️  Skip 7d window: careers@motorolasolutions.com (2 d)
+⏭️  Skip 7d window: careers@motorolasolutions.com (2 d)
+⏭️  Skip 7d window: careers@grainger.com (2 d)
+⏭️  Skip 7d window: careers@grainger.com (2 d)
+⏭️  Skip 7d window: careers@navistar.com (2 d)
+⏭️  Skip 7d window: careers@navistar.com (2 d)
+⏭️  Skip 7d window: careers@cat.com (2 d)
+⏭️  Skip 7d window: careers@cat.com (2 d)
+⏭️  Skip 7d window: careers@abbvie.com (2 d)
+⏭️  Skip 7d window: careers@abbvie.com (2 d)
+⏭️  Skip 7d window: careers@gehealthcare.com (2 d)
+⏭️  Skip 7d window: careers@gehealthcare.com (2 d)
+⏭️  Skip 7d window: careers@nm.org (2 d)
+⏭️  Skip 7d window: careers@nm.org (2 d)
+⏭️  Skip 7d window: careers@aah.org (2 d)
+⏭️  Skip 7d window: careers@aon.com (2 d)
+⏭️  Skip 7d window: careers@aah.org (2 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire (Chicago area))
+⏭️  Skip 7d window: careers@aon.com (2 d)
+⏭️  Skip 7d window: careers@sterlingsolutions.com (2 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire (Chicago area))
+⏭️  Skip 7d window: careers@primoriscorp.com (2 d)
+⏭️  Skip 7d window: careers@sterlingsolutions.com (2 d)
+⏭️  Skip 7d window: careers@mbakerintl.com (2 d)
+⏭️  Skip 7d window: careers@primoriscorp.com (2 d)
+⏭️  Skip 7d window: careers@stvinc.com (2 d)
+⏭️  Skip 7d window: careers@mbakerintl.com (2 d)
+⏭️  Skip 7d window: careers@hntb.com (2 d)
+⏭️  Skip 7d window: careers@stvinc.com (2 d)
+⏭️  Skip 7d window: careers@gfnet.com (2 d)
+⏭️  Skip 7d window: careers@hntb.com (2 d)
+⏭️  Skip 7d window: careers@example.com (2 d)
+⏭️  Skip 7d window: careers@gfnet.com (2 d)
+⏭️  Skip 7d window: careers@remotetech.co.uk (2 d)
+⏭️  Skip 7d window: careers@example.com (2 d)
+⏭️  Skip 7d window: hr@maplesystems.ca (2 d)
+⏭️  Skip 7d window: careers@remotetech.co.uk (2 d)
+⏭️  Skip 7d window: hr@eurorail.de (2 d)
+⏭️  Skip 7d window: hr@maplesystems.ca (2 d)
+⏭️  Skip 7d window: hr@bluemaple.ca (2 d)
+⏭️  Skip 7d window: hr@eurorail.de (2 d)
+⏭️  Skip 7d window: hr@bluemaple.ca (2 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire (Chicago area))
+⏭️  Skip 7d window: hr@bluemaple.ca (2 d)
+⏭️  Skip 7d window: careers@jacobs.com (2 d)
+⏭️  Skip 7d window: hr@bluemaple.ca (2 d)
+⏭️  Skip by location rule: CDW <careers@cdw.com> — IT Engineer (Lincolnshire (Chicago area))
+⏭️  Skip 7d window: hr@examplecontrols.com (1 d)
+⏭️  Skip 7d window: careers@jacobs.com (2 d)
+⏭️  Skip 7d window: careers@acelectric.com (1 d)
+⏭️  Skip 7d window: hr@examplecontrols.com (1 d)
+⏭️  Skip 7d window: careers@acelectric.com (1 d)
+⏭️  No MX: hr@remotesys.se
+⏭️  Skip 7d window: hr@bluemaple.ca (2 d)
+⏭️  No MX: hr@chicontrols.com
+⏭️  Already sent today: chicago@apex.com
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+⏭️  No MX: hr@remotesys.se
+⏭️  Skip 7d window: hr@bluemaple.ca (2 d)
+⏭️  No MX: hr@chicontrols.com
+⏭️  Already sent today: chicago@apex.com
+✅ apply_now: Sent 0 (limit 200). Log: /Users/irfan/jobs/logs/mail_debug.log
+[2026-02-22 12:15:20] Done

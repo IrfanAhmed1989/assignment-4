@@ -1,0 +1,6 @@
+I used ChatGPT (Copilot) to:
+- Help design the AreaCalculator program
+- Implement user input using Scanner
+- Add control flow with if-else statements
+- Write Javadoc comments with @param and @return tags
+- Guide me step-by-step using terminal commands

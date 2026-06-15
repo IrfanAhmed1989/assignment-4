@@ -1,0 +1,8 @@
+Enter a positive number (0 or negative to exit): 1 is not a prime number.
+Enter a positive number (0 or negative to exit): 2 is a prime number.
+Enter a positive number (0 or negative to exit): 3 is a prime number.
+Enter a positive number (0 or negative to exit): 4 is not a prime number.
+Enter a positive number (0 or negative to exit): 9 is not a prime number.
+Enter a positive number (0 or negative to exit): 25 is not a prime number.
+Enter a positive number (0 or negative to exit): 49 is not a prime number.
+Enter a positive number (0 or negative to exit): 

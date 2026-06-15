@@ -1,0 +1,36 @@
+#!/bin/zsh
+
+open -gj -a "$HOME/Applications/Jobs Menu Safe.app"
+
+echo "----------------------------------------"
+echo "          JOB CONTROL CENTER            "
+echo "----------------------------------------"
+echo ""
+echo "📨 Today Sent:"
+grep "^$(date +%F)," "$HOME/jobs/logs/applied.csv" 2>/dev/null | wc -l
+echo ""
+echo "📬 Queue Size:"
+tail -n +2 "$HOME/jobs/targets.csv" 2>/dev/null | wc -l
+echo ""
+echo "📝 Last 10 Applications:"
+tail -n 10 "$HOME/jobs/logs/mail_debug.log" 2>/dev/null || echo "(no mail_debug.log yet)"
+echo ""
+echo "----------------------------------------"
+echo " OPTIONS:"
+echo " 1) Open Dashboard"
+echo " 2) Open Full System Readme (APP_README.md)"
+echo " 3) Make Support Bundle (zip)"
+echo " 4) Quit"
+echo "----------------------------------------"
+echo -n "Choose an option (1-4): "
+read choice
+
+case "$choice" in
+  1) echo "✔ Opening Dashboard..."; open -gj -a Terminal "$HOME/Applications/Jobs Dashboard.app" ;;
+  2) echo "✔ Opening Full System Readme..."; open -a TextEdit "$HOME/jobs/APP_README.md" ;;
+  3) echo "✔ Making Support Bundle (zip)..."; bash "$HOME/jobs/bin/make_support_bundle.sh" ;;
+  *) ;;
+esac
+
+echo ""
+read "?Press ENTER to close..."

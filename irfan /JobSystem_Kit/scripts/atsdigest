@@ -1,0 +1,54 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+CSV="$HOME/jobs/ats.csv"
+LOG="$HOME/jobs/logs/ats_digest.log"
+OUT="$HOME/jobs/logs/ats_digest_$(date +%F).md"
+ME="engineerirfan21@gmail.com"
+
+# Ensure CSV header exists
+test -f "$CSV" || echo "date,company,url,role,notes" > "$CSV"
+
+# 7-day cutoff
+if date -v -7d +%F >/dev/null 2>&1; then CUTOFF=$(date -v -7d +%F); else CUTOFF=$(date -d '7 days ago' +%F); fi
+
+{
+  echo "[$(date '+%F %T')] start atsdigest"
+  echo "Wrote markdown → $OUT"
+
+  # Build markdown
+  {
+    echo "# ATS Digest – $(date '+%F %T')"
+    echo
+    echo "Entries since **$CUTOFF**:"
+    echo
+    echo "| Date | Company | Role | URL | Notes |"
+    echo "|---|---|---|---|---|"
+    awk -F, -v d="$CUTOFF" 'NR>1 && $1>=d {
+      for (i=2;i<=5;i++) { gsub(/^"|"$/, "", $i) }
+      printf("| %s | %s | %s | %s | %s |\n", $1, $2, $4, $3, $5)
+    }' "$CSV"
+  } > "$OUT"
+
+  # SEND EMAIL (correct osascript syntax)
+  /usr/bin/osascript - "$OUT" "$ME" <<'APPLESCRIPT'
+on run argv
+  set thePath to item 1 of argv
+  set theRecipient to item 2 of argv
+
+  set theSubject to "ATS Digest – " & (do shell script "date +%F")
+  set theBody to do shell script "cat " & quoted form of thePath
+
+  tell application "Mail"
+    set msg to make new outgoing message with properties {subject:theSubject, content:theBody, visible:false}
+    tell msg to make new to recipient at end of to recipients with properties {address:theRecipient}
+    send msg
+  end tell
+end run
+APPLESCRIPT
+
+  echo "Sent email to $ME"
+  echo "[$(date '+%F %T')] done"
+} >> "$LOG" 2>&1
+
+echo "✔ ATS digest complete → $OUT"

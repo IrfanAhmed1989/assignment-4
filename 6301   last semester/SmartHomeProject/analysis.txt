@@ -1,0 +1,13 @@
+This project demonstrates key Object-Oriented Programming principles.
+
+Inheritance:
+SmartLight extends SmartDevice, allowing reuse of attributes and methods.
+
+Encapsulation:
+All data members are private, accessed via public methods.
+
+Polymorphism:
+The connectToWiFi() method is implemented from the Connectable interface.
+
+Design:
+The system is modular, simple, and follows class hierarchy principles.

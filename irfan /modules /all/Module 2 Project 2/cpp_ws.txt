@@ -1,0 +1,4 @@
+Enter a positive number (0 or negative to exit): 11 is a prime number.
+Enter a positive number (0 or negative to exit): 15 is not a prime number.
+Enter a positive number (0 or negative to exit): 6 is not a prime number.
+Enter a positive number (0 or negative to exit): 

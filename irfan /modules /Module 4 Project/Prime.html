@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Prime Checker — Module 4</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body { font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; margin: 24px; }
+    #outputAnswer { font-weight: 600; }
+    .ok { color: #0b7a0b; }
+    .bad { color: #b00020; }
+    .hint { color: #555; font-size: 0.95em; }
+  </style>
+  <script>
+    /*
+      CSC6303 — Week 4 — Programming Project #4
+      Student: Irfan Ahmed
+      Purpose: Interactive JS page that checks primality for integers 2..9999.
+      isPrimeNumber(n) is a direct port of the Week‑2 C++ prime.cpp algorithm.
+    */
+    function isPrimeNumber(n) {
+      if (n <= 1) return false;
+      if (n <= 3) return true;
+      if (n % 2 === 0 || n % 3 === 0) return false;
+      for (let i = 5; i * i <= n; i += 6) {
+        if (n % i === 0 || n % (i + 2) === 0) return false;
+      }
+      return true;
+    }
+    function isPrime() {
+      const inputEl = document.getElementById('nbr');
+      const out = document.getElementById('outputAnswer');
+      const raw = inputEl.value.trim();
+      if (raw === '') { out.textContent = 'Please enter a value between 2 and 9999.'; out.className = 'bad'; return; }
+      const n = Number(raw);
+      if (!Number.isFinite(n) || !Number.isInteger(n)) { out.textContent = 'Only whole numbers are allowed.'; out.className = 'bad'; return; }
+      if (n < 2 || n > 9999) { out.textContent = 'Out of range. Enter an integer from 2 to 9999.'; out.className = 'bad'; return; }
+      const prime = isPrimeNumber(n);
+      out.textContent = prime ? `${n} is a prime number.` : `${n} is not a prime number.`;
+      out.className = prime ? 'ok' : 'bad';
+    }
+    window.addEventListener('DOMContentLoaded', () => {
+      const inputEl = document.getElementById('nbr');
+      inputEl.addEventListener('keydown', (e) => { if (e.key === 'Enter') isPrime(); });
+    });
+  </script>
+</head>
+<body>
+  <h1 style="color: red">Prime Checker</h1>
+  <label for="nbr">Enter a number from 2 to 9999:</label>
+  <input type="number" id="nbr" min="2" max="9999" step="1" inputmode="numeric"> <br><br>
+  <button onclick="isPrime()">Submit</button>
+  <p id="outputAnswer" aria-live="polite" class="hint">I'm waiting...</p>
+
+  <!-- Student: Irfan Ahmed — CSC6303 Week 4 Project #4. Algorithm mirrors Week‑2 C++ prime.cpp -->
+  <hr>
+  <button id="selfTestBtn">Run self‑test</button>
+  <pre id="selfTestOut" class="hint"></pre>
+  <script>
+    (function attachSelfTest() {
+      const cases = [
+        [2, true], [3, true], [4, false], [5, true], [9, false],
+        [25, false], [97, true], [221, false], [9973, true]
+      ];
+      document.getElementById('selfTestBtn').addEventListener('click', () => {
+        const out = document.getElementById('selfTestOut');
+        let passed = 0, total = cases.length;
+        let lines = [];
+        for (const [n, exp] of cases) {
+          const got = isPrimeNumber(n);
+          const ok = (got === exp);
+          if (ok) passed++;
+          lines.push(`${n}: expected ${exp ? 'prime' : 'not prime'} -> got ${got ? 'prime' : 'not prime'} ${ok ? '✅' : '❌'}`);
+        }
+        lines.push(`\nResult: ${passed}/${total} tests passed ${passed === total ? '✅' : '❌'}`);
+        out.textContent = lines.join('\n');
+      });
+    })();
+  </script>
+</body>
+</html>
+<hr>
+<button id="bigTestBtn">Run BIG self‑test (2..9999 sample + 2000 random)</button>
+<pre id="bigTestOut" class="hint"></pre>
+<script>
+  function isPrimeSlow(n) {
+    if (n <= 1) return false;
+    if (n <= 3) return true;
+    if (n % 2 === 0 || n % 3 === 0) return false;
+    for (let i = 5; i * i <= n; i += 2) {
+      if (n % i === 0) return false;
+    }
+    return true;
+  }
+  (function addBigTest() {
+    const btn = document.getElementById('bigTestBtn');
+    if (!btn) return;
+    btn.addEventListener('click', () => {
+      const out = document.getElementById('bigTestOut');
+      const N = 9999;
+      let mismatches = 0;
+      // Sweep: every 3rd number in range
+      for (let n = 2; n <= N; n += 3) {
+        if (isPrimeNumber(n) !== isPrimeSlow(n)) mismatches++;
+      }
+      // Random stress
+      for (let k = 0; k < 2000; k++) {
+        const n = 2 + Math.floor(Math.random() * (N - 1));
+        if (isPrimeNumber(n) !== isPrimeSlow(n)) mismatches++;
+      }
+      // Edges
+      const edges = [2,3,4,5,9,25,97,221,9973,9991,9997,9999];
+      for (const n of edges) {
+        if (isPrimeNumber(n) !== isPrimeSlow(n)) mismatches++;
+      }
+      out.textContent = mismatches === 0
+        ? "BIG SELF‑TEST: PASS ✅ — no mismatches."
+        : `BIG SELF‑TEST: ❌ mismatches=${mismatches}`;
+    });
+  })();
+</script>

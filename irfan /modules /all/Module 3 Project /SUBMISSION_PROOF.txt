@@ -1,0 +1,4 @@
+CSC6302 Module 3 — Submission Proof
+Thu Jan 22 02:01:49 EST 2026
+-rw-r--r--  1 irfan  staff  uchg 1397417 Jan 22 01:39 Module3_Tribonacci_IrfanAhmed.zip
+7c6af22de3657bf53fc4fa4153a43f40bae3381e4ed0e85887b2aa7d383246bd  Module3_Tribonacci_IrfanAhmed.zip

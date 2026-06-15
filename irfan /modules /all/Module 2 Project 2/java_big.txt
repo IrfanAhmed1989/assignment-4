@@ -1,0 +1,5 @@
+Enter a positive number (0 or negative to exit): 97 is a prime number.
+Enter a positive number (0 or negative to exit): 99 is not a prime number.
+Enter a positive number (0 or negative to exit): 101 is a prime number.
+Enter a positive number (0 or negative to exit): 121 is not a prime number.
+Enter a positive number (0 or negative to exit): 

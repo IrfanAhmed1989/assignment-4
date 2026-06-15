@@ -1,0 +1,6 @@
+=== Project #5 (Timestamped): Folder and File Creation in Python ===
+Current working directory: /Users/irfan/Desktop/Module 5 Project
+Enter BASE folder name (timestamp will be added automatically): Creating folder 'Project05_Data_2026-01-29_01-36-26'...
+Verification passed: 100 integers in [0,1000], correct formatting, trailing newline present.
+Success! Wrote 100 random numbers to: /Users/irfan/Desktop/Module 5 Project/Project05_Data_2026-01-29_01-36-26/numbers100.txt
+Created folder: /Users/irfan/Desktop/Module 5 Project/Project05_Data_2026-01-29_01-36-26

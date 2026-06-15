@@ -1,0 +1,7 @@
+[Email] Sending message: Hello via Email
+[SMS] Sending message: Hello via SMS
+[WhatsApp] Sending message: Hello via WhatsApp
+Logs:
+Hello via Email
+Hello via SMS
+Hello via WhatsApp

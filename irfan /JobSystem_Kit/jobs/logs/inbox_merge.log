@@ -1,0 +1,47 @@
+[2026-02-21 14:35:36] merging /Users/irfan/jobs/inbox/linkedinjobs_2026-02-21.csv
+done /Users/irfan/jobs/inbox/linkedinjobs_2026-02-21.csv
+[2026-02-21 14:39:05] merging /Users/irfan/jobs/inbox/reprocess_now.csv
+skip suppressed: careers@northline.com
+skip suppressed: talent@brightworks.com
+skip role: Controls Engineer (hr@midwestcontrols.com)
+skip role: Engineer (careers@parsons.com)
+skip role: Supervisor Engineer (careers@kiewit.com)
+skip role: Engineer (careers@skanska.com)
+skip role: Maintenance Engineer (careers@mjelectric.com)
+skip role: Engineer (careers@transitchicago.com)
+skip role: Maintenance Engineer (careers@pacebus.com)
+skip role: Engineer (careers@ul.com)
+skip non-Chicago: careers@panduit.com (Tinley Park)
+skip role: Engineer (careers@baxter.com)
+skip role: Maintenance Engineer (careers@transdev.com)
+skip role: Engineer (careers@ttx.com)
+skip role: Engineer (careers@transystems.com)
+skip role: Engineer (careers@arcadis.com)
+skip role: Engineer (careers@rsandh.com)
+skip role: Controls Engineer (hr@midwestcontrols.com)
+skip role: Systems Engineer (hr@swisssystems.ch)
+done /Users/irfan/jobs/inbox/reprocess_now.csv
+[2026-02-21 14:43:12] merging /Users/irfan/jobs/inbox/linkedinjobs_2026-02-21.csv
+done /Users/irfan/jobs/inbox/linkedinjobs_2026-02-21.csv
+[2026-02-21 14:51:19] merging /Users/irfan/jobs/inbox/new_leads_2026-02-21.csv
+done /Users/irfan/jobs/inbox/new_leads_2026-02-21.csv
+[2026-02-22 11:42:21] merging /Users/irfan/jobs/inbox/new_leads_quick.csv
+done /Users/irfan/jobs/inbox/new_leads_quick.csv
+[2026-02-22 12:38:51] merging /Users/irfan/jobs/inbox/new_leads_quick.csv
+done /Users/irfan/jobs/inbox/new_leads_quick.csv
+[2026-02-22 12:55:20] merging /Users/irfan/jobs/inbox/new_leads_now.csv
+done /Users/irfan/jobs/inbox/new_leads_now.csv
+[2026-02-22 12:56:34] merging /Users/irfan/jobs/inbox/leads_send_now.csv
+done /Users/irfan/jobs/inbox/leads_send_now.csv
+[2026-02-22 19:40:30] merging /Users/irfan/jobs/inbox/leads_now.csv
+done /Users/irfan/jobs/inbox/leads_now.csv
+[2026-02-22 19:42:29] merging /Users/irfan/jobs/inbox/leads_now.csv
+done /Users/irfan/jobs/inbox/leads_now.csv
+[2026-02-24 06:13:08] merging /Users/irfan/jobs/inbox/test_lead.csv
+done /Users/irfan/jobs/inbox/test_lead.csv
+[2026-02-24 06:17:14] merging /Users/irfan/jobs/inbox/valid_test.csv
+done /Users/irfan/jobs/inbox/valid_test.csv
+[2026-02-24 06:17:39] merging /Users/irfan/jobs/inbox/valid_test.csv
+done /Users/irfan/jobs/inbox/valid_test.csv
+[2026-02-24 06:18:50] merging /Users/irfan/jobs/inbox/valid_test_alert.csv
+done /Users/irfan/jobs/inbox/valid_test_alert.csv

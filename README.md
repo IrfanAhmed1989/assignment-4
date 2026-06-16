@@ -1,15 +1,17 @@
 # Assignment 4 - Project
 
 ## Description
-This project is part of my coursework at Merrimack College.
-It demonstrates a job automation / notification system.
+This project is part of my coursework at Merrimack College. It demonstrates a notification system with supporting files and documentation.
 
 ## How to Run
 
-1. Download this repository
+1. Download the repository
 2. Open terminal
-3. Navigate to folder:
+3. Navigate into folder:
 
-```bash
-cd JobSystem_Kit
-./scripts/apply_now.sh
+cd FlexibleNotificationSystem
+
+4. Open HTML files or review Java files as needed.
+
+## Notes
+This project includes Java classes, HTML documentation, and resource files. It is organized so another developer can understand and maintain it easily.
